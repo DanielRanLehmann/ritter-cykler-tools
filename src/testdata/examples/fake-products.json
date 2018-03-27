@@ -1,0 +1,1626 @@
+[
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143510.069397, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Neque morbi turpis nullam justo consequat risus at erat eget vestibulum.", 
+        "didYouNoticeText": "Magna risus.", 
+        "discountPct": 0.0, 
+        "discountPrice": 4283.0, 
+        "highlightTags": [
+            "Justo metus taciti inceptos ad cras proin ut tellus ipsum parturient.", 
+            "Justo fusce tempor."
+        ], 
+        "id": "-L8aofsp78OXDKAO7nUI", 
+        "imageNames": [
+            "IMG_01.jpeg"
+        ], 
+        "imageURLs": [
+            "https://www.athleteshop.dk/media/catalog/product/cache/74/thumbnail/9df78eab33525d08d6e5fb8d27136e95/6/8/680.81060.010_1.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Lorem velit auctor tincidunt lacus eros sit nulla tempor mattis fames cubilia vivamus.", 
+            "Dolor massa ornare ac dis.", 
+            "Etiam augue bibendum.", 
+            "Porta proin feugiat nulla ve orci.", 
+            "Fames vitae.", 
+            "Metus felis.", 
+            "Dolor class lectus neque class dignissim curae dignissim arcu sit."
+        ], 
+        "name": "Schwinn Women's Thrasher Helmet", 
+        "normalPrice": 4283.0, 
+        "officialProductURL": "http://www.sidi.com/", 
+        "outOfTheBoxTags": [
+            "Lacus massa eni phasellus dictum felis parturient ac tempor maecenas ridiculus inceptos rutrum potenti nunc a odio.", 
+            "Felis ipsum ligula neque tristique torquent ligula nunc ac nec duis.", 
+            "Etiam magna.", 
+            "Metus neque ante urna velit mus bibendum tristique ad mattis est aliquet ipsum."
+        ], 
+        "qty": {
+            "l": 0, 
+            "m": 40, 
+            "s": 0, 
+            "xl": 0, 
+            "xs": 0, 
+            "xxl": 0
+        }, 
+        "recommendedText": "Etiam porta phasellus hymenaeos velit et donec molestie tincidunt quis.", 
+        "sizes": [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl", 
+            "xxl"
+        ], 
+        "subcategoryName": "Racer Helmet", 
+        "techSpecTags": [
+            "Nulla dolor sapien ve.", 
+            "Fusce curae cubilia tellus nulla nostra lorem class etiam semper.", 
+            "Ipsum felis tempor urna ad quam primis aliquet natoque quam sed.", 
+            "Ipsum magna a erat proin luctus nisl porttitor magnis lobortis penatibus.", 
+            "Augue dolor purus libero ante dignissim habitant ac ullamcorper."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=MobVtZba6-4"
+    }, 
+    {
+        "categoryName": "Bike", 
+        "createdAt": 1522143535.613305, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Purus neque non lorem cras in curae.", 
+        "didYouNoticeText": "Etiam neque hendrerit potenti metus at placerat.", 
+        "discountPct": 0.05, 
+        "discountPrice": 3082.0, 
+        "highlightTags": [
+            "Proin justo litora fusce euismod vehicula litora.", 
+            "Class neque non proin per quam sociosqu diam euismod."
+        ], 
+        "id": "-L8aom6xyBUB5Ri1FWui", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg"
+        ], 
+        "imageURLs": [
+            "https://static.shoplightspeed.com/shops/612300/files/005826172/pinarello-dogma-f10-frameset.jpg", 
+            "http://www.thepedalhouse.co.uk/images/productzoomin/12887.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Netus justo cras lectus pretium ut ad eu taciti a integer et.", 
+            "Ipsum porta.", 
+            "Ipsum purus ullamcorper interdum nisl praesent.", 
+            "Etiam curae nibh pede vitae quisque.", 
+            "Proin class mus diam faucibus pede vehicula auctor aliquet commodo erat.", 
+            "Lacus massa sit adipiscing.", 
+            "Fames lorem pretium interdum in urna quis vehicula."
+        ], 
+        "name": "26\" Mens Roadmaster Granite Peak Bike", 
+        "normalPrice": 3244.0, 
+        "officialProductURL": "https://reynoldscycling.com/", 
+        "outOfTheBoxTags": [
+            "Lorem metus mattis dictum nulla amet torquent a pharetra sem donec.", 
+            "Morbi netus per parturient id pharetra donec a ligula felis.", 
+            "Vitae curae montes lacus et litora.", 
+            "Justo felis sit parturient mattis magna."
+        ], 
+        "qty": {
+            "*": 42
+        }, 
+        "recommendedText": "Dolor fames pretium eget ante lorem torquent.", 
+        "sizes": [
+            "*"
+        ], 
+        "subcategoryName": "Mountain Bike", 
+        "techSpecTags": [
+            "Massa ipsum.", 
+            "Risus fames enim.", 
+            "Justo fames donec arcu elementum primis mattis lobortis condimentum eleifend elit duis ad sollicitudin congue semper nam.", 
+            "Dolor felis.", 
+            "Felis netus congue proin ut luctus."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=1AkkxSKwwHM"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143563.655763, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Purus ipsum natoque dis imperdiet elit laoreet.", 
+        "didYouNoticeText": "Augue class eni orci torquent tortor.", 
+        "discountPct": 0.0, 
+        "discountPrice": 445.0, 
+        "highlightTags": [
+            "Velit etiam per justo tristique volutpat ultrices dictum congue dis eros sit ante elementum lobortis ac.", 
+            "Netus dolor feugiat."
+        ], 
+        "id": "-L8aosy6sfnmvtfYs6rN", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg"
+        ], 
+        "imageURLs": [
+            "http://cdn.triathlete.com/wp-content/uploads/2017/08/1-4-1-603x421.jpg", 
+            "http://chainreactioncycles.scene7.com/is/image/ChainReactionCycles/prod154475_IMGSET?wid\\u003d500\\u0026hei\\u003d505"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Vitae proin nisl tortor taciti dolor integer nunc eros vestibulum cum adipiscing.", 
+            "Massa felis ligula magna dapibus.", 
+            "Ipsum proin cubilia sit nunc cras sapien dignissim.", 
+            "Porta fusce nonummy egestas eget nunc posuere aptent ante laoreet fames.", 
+            "Purus dolor eleifend dolor duis risus viverra mollis lacus lectus parturient etiam iaculis.", 
+            "Proin morbi a viverra nostra.", 
+            "Donec neque nisl ornare ad."
+        ], 
+        "name": "Base Camp Zoom Cycling Bike Helmets with Removable Shield Visor", 
+        "normalPrice": 445.0, 
+        "officialProductURL": "http://www.limar.com/site/index.php?lng=eng", 
+        "outOfTheBoxTags": [
+            "Magna dolor donec sociosqu netus ipsum dui elementum elit eget curabitur.", 
+            "Morbi donec magnis ullamcorper felis hendrerit phasellus nunc blandit elit et enim.", 
+            "Neque dolor lobortis proin ve.", 
+            "Etiam felis turpis etiam proin aptent."
+        ], 
+        "qty": {
+            "l": 0, 
+            "m": 92, 
+            "xl": 0
+        }, 
+        "recommendedText": "Velit donec leo diam hendrerit rutrum a facilisi.", 
+        "sizes": [
+            "m", 
+            "l", 
+            "xl"
+        ], 
+        "subcategoryName": "Kids Helmet", 
+        "techSpecTags": [
+            "Fusce netus facilisis amet per euismod.", 
+            "Morbi metus sapien id vitae vulputate habitasse nulla elementum nascetur.", 
+            "Dolor purus urna justo nisi per nisi cras sociosqu adipiscing.", 
+            "Class fusce.", 
+            "Ipsum vitae euismod enim sed purus venenatis."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=lD69QcL5p5I"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143563.901609, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Morbi neque aenean ac congue dignissim nulla fusce hendrerit.", 
+        "didYouNoticeText": "Etiam netus mattis etiam parturient eleifend amet nam lacus dapibus enim magna ornare felis.", 
+        "discountPct": 0.01, 
+        "discountPrice": 153.0, 
+        "highlightTags": [
+            "Curae nulla rhoncus in massa pharetra hymenaeos.", 
+            "Felis purus aliquet ve litora."
+        ], 
+        "id": "-L8aot0x5V73AaSshCaE", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.plain", 
+            "IMG_04.jpeg"
+        ], 
+        "imageURLs": [
+            "http://www.giro.com/media/catalog/product/cache/1/small_image/500x/9df78eab33525d08d6e5fb8d27136e95/g/i/giro_h_foray_matteblackvermillion_34.jpg", 
+            "https://static.evanscycles.com/production/helmets--protection/helmets/product-image/969-638/giro-ember-mips-helmet-pink-other-EV290128-3593-1.jpg", 
+            "https://images.pricerunner.com/product/400x400/1570183981/Giro-Feature-MIPS.jpg", 
+            "https://merlincycles-img.s3-eu-west-1.amazonaws.com/productImage_1280_1024_ffffff_image-jpeg/28037_giro_synthe_mips_road_cycling_helmet_2017.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Ipsum massa.", 
+            "Class morbi.", 
+            "Fusce ipsum.", 
+            "Porta metus tempor suspendisse fusce ultricies condimentum per ornare eu.", 
+            "Donec magna tincidunt rhoncus class ac curabitur adipiscing sem adipiscing parturient eu.", 
+            "Velit risus varius eni magnis.", 
+            "Metus neque."
+        ], 
+        "name": "Giro Verona Women's Helmet Purple / Blue UW", 
+        "normalPrice": 154.0, 
+        "officialProductURL": "http://www.garmin.com/da-DK", 
+        "outOfTheBoxTags": [
+            "Etiam netus.", 
+            "Massa nulla aliquam class sed netus mus magna enim.", 
+            "Risus etiam aptent tempor nunc amet pharetra ultricies.", 
+            "Massa donec libero donec ante dapibus eu leo amet vel."
+        ], 
+        "qty": {
+            "l": 54, 
+            "s": 0, 
+            "xl": 36, 
+            "xs": 84, 
+            "xxl": 135
+        }, 
+        "recommendedText": "Morbi vitae urna donec penatibus duis nisl dis justo non sem ve fusce aenean etiam.", 
+        "sizes": [
+            "xs", 
+            "s", 
+            "l", 
+            "xl", 
+            "xxl"
+        ], 
+        "subcategoryName": "Kids Helmet", 
+        "techSpecTags": [
+            "Justo proin ullamcorper id luctus porta auctor nisl tellus commodo at ac sed nunc volutpat nec donec.", 
+            "Class velit.", 
+            "Augue netus euismod nam ad.", 
+            "Curae proin a odio ipsum pulvinar sem.", 
+            "Purus risus nonummy nibh."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=_iAVYAKISpA"
+    }, 
+    {
+        "categoryName": "Bike", 
+        "createdAt": 1522143564.151992, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Metus purus.", 
+        "didYouNoticeText": "Massa vitae.", 
+        "discountPct": 0.01, 
+        "discountPrice": 43864.0, 
+        "highlightTags": [
+            "Donec magna etiam bibendum ve.", 
+            "Morbi dolor facilisi nisl dis nulla montes ad tristique amet."
+        ], 
+        "id": "-L8aot4rVy67aQH9DhmS", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg"
+        ], 
+        "imageURLs": [
+            "http://feltet.dk/octo_cms/files/Feltet.dk/Froome_Pinarello_F10.jpg", 
+            "https://www.steel-vintage.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/i/pinarello-vuelta-columbus-el-classic-bicycle-7.jpg", 
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Team_Sky_bus_%26_Bradley_Wiggins_Pinarello_Dogma_at_2012_Volta_ao_Algarve_%28cropped%29.jpg/220px-Team_Sky_bus_%26_Bradley_Wiggins_Pinarello_Dogma_at_2012_Volta_ao_Algarve_%28cropped%29.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Fusce lorem lacus.", 
+            "Morbi donec.", 
+            "Fames augue.", 
+            "Lorem ipsum.", 
+            "Curae purus risus suspendisse torquent arcu.", 
+            "Fusce vitae.", 
+            "Netus nulla lobortis fames quisque quis."
+        ], 
+        "name": "Huffy 26\" Cranbrook Women's Cruiser Bike, White", 
+        "normalPrice": 44307.0, 
+        "officialProductURL": "https://mbk-cykler.dk/", 
+        "outOfTheBoxTags": [
+            "Morbi risus amet euismod.", 
+            "Proin nulla a erat.", 
+            "Curae metus.", 
+            "Felis metus nullam dui adipiscing tempus praesent urna dui donec."
+        ], 
+        "qty": {
+            "*": 67
+        }, 
+        "recommendedText": "Proin justo platea vel habitant commodo aenean nisl donec accumsan.", 
+        "sizes": [
+            "*"
+        ], 
+        "subcategoryName": "Sports Bike", 
+        "techSpecTags": [
+            "Fames risus fames vel sociis ut pulvinar quam nec rhoncus.", 
+            "Etiam massa netus per.", 
+            "Nulla fusce mollis augue integer lacus odio facilisi.", 
+            "Metus purus libero etiam gravida augue ipsum justo eros blandit elit.", 
+            "Purus nulla montes inceptos ridiculus eget hac nascetur sodales primis hac feugiat."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=Sy20ptkV9mQ"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143564.375866, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Velit justo laoreet.", 
+        "didYouNoticeText": "Dolor class a natoque mattis amet.", 
+        "discountPct": 0.0, 
+        "discountPrice": 1397.0, 
+        "highlightTags": [
+            "Fusce netus.", 
+            "Purus curae massa egestas ac platea ut inceptos sodales pede eget."
+        ], 
+        "id": "-L8aot8MwcggK1NNs6NM", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg"
+        ], 
+        "imageURLs": [
+            "http://www.wigglestatic.com/product-media/5360112436/Giro-Air-Attack-Shield-Helmet-Road-Helmets-Yellow-Black-GIHAIRS9BS6-0.jpg?w\\u003d2000\\u0026h\\u003d2000\\u0026a\\u003d7", 
+            "https://cdnmos-bikeradar.global.ssl.fastly.net/images/bikes-and-gear/helmets-and-protection/helmet-standard/1410420423938-jxisiq6i982n-630-80.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Fusce metus.", 
+            "Justo metus varius.", 
+            "Netus vitae erat viverra velit parturient nisl massa laoreet.", 
+            "Dolor porta magnis adipiscing habitant nisl per lorem parturient laoreet mus parturient.", 
+            "Etiam metus mattis in sapien eleifend nisl aliquet a suspendisse vel cras sollicitudin adipiscing cras felis.", 
+            "Fames class neque integer dictum dolor parturient.", 
+            "Ipsum velit."
+        ], 
+        "name": "Lumos Smart Bike Helmet with Wireless Turn Signal Handlebar Remote and Built-In Motion Sensor \u2013 70 LEDs on Front, Rear and Sides \u2013 Up To 6 hrs Battery Life \u2013 CPSC and CE Certified Cycling Helmet", 
+        "normalPrice": 1397.0, 
+        "officialProductURL": "http://dk.nutcasehelmets.com/", 
+        "outOfTheBoxTags": [
+            "Nulla lorem a libero malesuada ad etiam convallis.", 
+            "Neque velit quis porttitor sed eget.", 
+            "Netus augue amet.", 
+            "Felis magna."
+        ], 
+        "qty": {
+            "l": 0, 
+            "m": 49, 
+            "s": 40, 
+            "xl": 0, 
+            "xs": 0, 
+            "xxl": 15
+        }, 
+        "recommendedText": "Donec neque.", 
+        "sizes": [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl", 
+            "xxl"
+        ], 
+        "subcategoryName": "Racer Helmet", 
+        "techSpecTags": [
+            "Curae magna libero in dictumst sit et varius vivamus dictum nulla.", 
+            "Proin massa aptent consectetuer consequat neque ac lorem ac velit sociis consectetuer natoque sit placerat venenatis platea netus.", 
+            "Nulla augue cum.", 
+            "Lorem morbi pede egestas vel pede.", 
+            "Risus lorem luctus enim ve cum."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=z7q18RjLAjo"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143564.58247, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Etiam massa sociosqu pede nec diam eni dolor ornare purus tempus cursus.", 
+        "didYouNoticeText": "Netus justo vehicula massa.", 
+        "discountPct": 0.0, 
+        "discountPrice": 370.0, 
+        "highlightTags": [
+            "Proin augue condimentum molestie tincidunt vitae duis aliquet duis.", 
+            "Purus netus nam."
+        ], 
+        "id": "-L8aotBaHwIGiaM_yQVg", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg"
+        ], 
+        "imageURLs": [
+            "https://content.competitivecyclist.com/images/items/1200/GIR/GIR00AG/MATWHI.jpg", 
+            "http://www.cyclesetsports.com/21749-large_default/giro-atmos-2-bike-helmet-2017.jpg", 
+            "http://cdn.road.cc/sites/default/files/styles/main_width/public/images/Products/Giro%20Indicator%20helmet.jpg?itok\\u003dzH2lz0zm"
+        ], 
+        "inStock": false, 
+        "manifacturerInfoTags": [
+            "Proin risus lacinia ultrices proin.", 
+            "Porta morbi mattis eros taciti habitasse vestibulum.", 
+            "Augue massa eros dapibus elementum pede hac pretium inceptos et nostra morbi.", 
+            "Fusce porta rhoncus ut nec arcu.", 
+            "Proin justo suspendisse facilisi dapibus duis dui.", 
+            "Augue etiam mauris vehicula varius quis.", 
+            "Magna risus."
+        ], 
+        "name": "Giro Cinder MIPS Helmet", 
+        "normalPrice": 370.0, 
+        "officialProductURL": "http://www.sidi.com/", 
+        "outOfTheBoxTags": [
+            "Donec proin aenean arcu ullamcorper feugiat consectetuer semper etiam gravida erat a etiam rhoncus praesent auctor.", 
+            "Morbi fusce nam.", 
+            "Nulla ipsum tempus id pulvinar ante viverra felis etiam orci.", 
+            "Metus dolor porta a."
+        ], 
+        "qty": {
+            "m": 0, 
+            "s": 0
+        }, 
+        "recommendedText": "Magna justo sociis ve sagittis sem ac class.", 
+        "sizes": [
+            "s", 
+            "m"
+        ], 
+        "subcategoryName": "Kids Helmet", 
+        "techSpecTags": [
+            "Augue risus taciti augue ullamcorper sit in netus.", 
+            "Lacus dolor nibh gravida ad ligula mi cum diam.", 
+            "Metus proin orci turpis pretium blandit.", 
+            "Proin dolor natoque odio ante rhoncus aenean elit.", 
+            "Purus lacus donec torquent per eros nam porttitor sem morbi ridiculus praesent turpis nostra class varius erat duis ante platea."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=QBpb3uLnlF0"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143564.808356, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Massa etiam libero pharetra consequat leo.", 
+        "didYouNoticeText": "Proin fusce nulla vel etiam.", 
+        "discountPct": 0.0, 
+        "discountPrice": 3686.0, 
+        "highlightTags": [
+            "Proin massa feugiat proin magna sociis.", 
+            "Ipsum donec sem diam."
+        ], 
+        "id": "-L8aotF7ijnxfbeikP-o", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg"
+        ], 
+        "imageURLs": [
+            "https://res.cloudinary.com/moresport/image/upload/c_fill,d_no-image_gxma3c.jpg,f_auto,h_432,q_auto:eco/swh/products/1027632_a.jpg", 
+            "https://www.edinburghbicycle.com/media/catalog/product/cache/1/image/2000x/040ec09b1e35df139433887a97daa66f/h/e/helm-giro-saga-womens-cycling-helmet-web-jpg_1.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Purus porta.", 
+            "Massa velit tempus eu varius nec pede curabitur mauris placerat scelerisque molestie nisi.", 
+            "Class massa scelerisque erat nibh porta metus mollis placerat.", 
+            "Lorem netus sagittis amet nostra rhoncus erat nec erat sit at dictum.", 
+            "Magna massa malesuada leo blandit accumsan purus mauris.", 
+            "Justo velit ornare et magna at ante massa.", 
+            "Lacus neque."
+        ], 
+        "name": "Mavic CXR Ultimate Road Cycling Bike Helmet Yellow / Black Small Unisex Adult", 
+        "normalPrice": 3686.0, 
+        "officialProductURL": "http://www.pinarello.com/it", 
+        "outOfTheBoxTags": [
+            "Ipsum lorem diam vitae lacinia orci nisi.", 
+            "Massa netus.", 
+            "Vitae curae ultricies praesent.", 
+            "Netus proin."
+        ], 
+        "qty": {
+            "m": 0, 
+            "s": 0, 
+            "xl": 43
+        }, 
+        "recommendedText": "Curae lacus quam per ipsum blandit sociis dolor suspendisse.", 
+        "sizes": [
+            "s", 
+            "m", 
+            "xl"
+        ], 
+        "subcategoryName": "Racer Helmet", 
+        "techSpecTags": [
+            "Purus vitae.", 
+            "Felis fusce taciti platea vel.", 
+            "Nulla netus nullam vestibulum lacus nunc at.", 
+            "Augue justo lectus sociosqu fames purus curae torquent adipiscing tellus torquent sociosqu aptent cras.", 
+            "Justo felis dui urna fermentum semper."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=dPTfA1OsqXc"
+    }, 
+    {
+        "categoryName": "Bike", 
+        "createdAt": 1522143565.028758, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Proin metus vel convallis leo consectetuer cursus risus suspendisse nec.", 
+        "didYouNoticeText": "Felis netus natoque venenatis pulvinar nibh accumsan sodales interdum netus etiam sed.", 
+        "discountPct": 0.01, 
+        "discountPrice": 58901.0, 
+        "highlightTags": [
+            "Porta felis.", 
+            "Fusce neque."
+        ], 
+        "id": "-L8aotIZ4yB1q2CC6ou1", 
+        "imageNames": [
+            "IMG_01.png", 
+            "IMG_02.jpeg"
+        ], 
+        "imageURLs": [
+            "https://cdn.shopify.com/s/files/1/0675/0231/products/Pinarello.png?v\\u003d1498084274", 
+            "https://racycles.azureedge.net/assets/standard/59788/P16_ROKH_411.JPG"
+        ], 
+        "inStock": false, 
+        "manifacturerInfoTags": [
+            "Neque donec.", 
+            "Fusce fames odio scelerisque ut tellus eni vehicula malesuada interdum platea.", 
+            "Morbi neque cras tellus blandit quam donec condimentum.", 
+            "Neque justo quam nostra semper.", 
+            "Fames lacus ullamcorper sed nostra dolor vestibulum egestas nunc volutpat.", 
+            "Lacus magna hymenaeos orci massa enim mus cubilia dui parturient adipiscing in senectus dis.", 
+            "Augue dolor quis mattis morbi sed donec."
+        ], 
+        "name": "Huffy 26\" Men's Nel Lusso Cruiser with Perfect Fit Frame Bike, Bla  ...", 
+        "normalPrice": 59495.0, 
+        "officialProductURL": "https://www.trekbikes.com/dk/da_DK/", 
+        "outOfTheBoxTags": [
+            "Augue lorem erat mus et cursus elit urna arcu class imperdiet praesent orci platea dapibus urna nam.", 
+            "Fames lacus mus metus.", 
+            "Metus nulla aenean eni pretium at sit elementum.", 
+            "Nulla neque urna rhoncus et odio faucibus."
+        ], 
+        "qty": {
+            "*": 0
+        }, 
+        "recommendedText": "Purus fusce laoreet sagittis nostra dapibus aenean.", 
+        "sizes": [
+            "*"
+        ], 
+        "subcategoryName": "Sports Bike", 
+        "techSpecTags": [
+            "Proin neque tempor tempus augue adipiscing erat malesuada curabitur.", 
+            "Neque lacus orci sit ipsum proin eleifend nisi pharetra.", 
+            "Massa morbi varius tortor rhoncus litora eget id erat nisi.", 
+            "Fusce morbi augue habitasse non dignissim varius hendrerit faucibus.", 
+            "Nulla purus mauris magna ac."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=ckwru9eTGNQ"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143565.250615, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Lorem vitae elit egestas orci elit pede.", 
+        "didYouNoticeText": "Velit fusce sociis parturient etiam pede per.", 
+        "discountPct": 0.0, 
+        "discountPrice": 1892.0, 
+        "highlightTags": [
+            "Nulla velit dui pharetra facilisis.", 
+            "Proin netus a lacinia luctus elit."
+        ], 
+        "id": "-L8aotM1KPjgh5SV7lrM", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg"
+        ], 
+        "imageURLs": [
+            "https://merlincycles-img.s3-eu-west-1.amazonaws.com/productImage_1280_1024_ffffff_image-jpeg/29055_giro_synthe_wiggo_mips_road_cycling_helmet_2017.jpg", 
+            "http://www.giro.com/media/catalog/product/cache/1/small_image/500x/9df78eab33525d08d6e5fb8d27136e95/g/i/giro_h_synthe_mattewhiteturquoisevermillion_34.jpg", 
+            "http://www.cyclesetsports.com/21366-large_default/giro-synthe-mips-katusha-road-cycling-helmet-2017.jpg"
+        ], 
+        "inStock": false, 
+        "manifacturerInfoTags": [
+            "Fusce metus condimentum torquent iaculis morbi at.", 
+            "Curae lorem sed fames tortor dictumst penatibus a nec tincidunt litora.", 
+            "Dolor porta integer urna nam.", 
+            "Ipsum justo a.", 
+            "Purus dolor erat netus rhoncus.", 
+            "Velit magna nisi dui a lectus orci ante diam et facilisis gravida dolor hac nisi mollis parturient morbi.", 
+            "Velit proin rutrum elit."
+        ], 
+        "name": "Kask Protone Road Helmet (Matt Finish)", 
+        "normalPrice": 1892.0, 
+        "officialProductURL": "http://www.ritterplus.dk/", 
+        "outOfTheBoxTags": [
+            "Donec fusce risus turpis ad nisl arcu posuere fames.", 
+            "Fusce etiam nec curae vitae turpis amet dignissim convallis proin mi netus ut taciti pellentesque laoreet.", 
+            "Dolor neque class nunc nec urna a nisi fusce nonummy.", 
+            "Felis morbi lectus sociosqu consequat sit rhoncus mi semper penatibus."
+        ], 
+        "qty": {
+            "l": 0, 
+            "m": 0, 
+            "xs": 0
+        }, 
+        "recommendedText": "Neque metus torquent tincidunt proin porta curae dis orci elit congue suscipit.", 
+        "sizes": [
+            "xs", 
+            "m", 
+            "l"
+        ], 
+        "subcategoryName": "Racer Helmet", 
+        "techSpecTags": [
+            "Netus nulla semper placerat netus justo mus.", 
+            "Lacus nulla cursus pharetra etiam a.", 
+            "Fusce neque.", 
+            "Purus felis proin sapien erat ut ipsum mi magna per nulla dui porta hendrerit torquent.", 
+            "Neque nulla etiam velit lectus."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=epsKlPuchZs"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143565.464296, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Justo augue malesuada placerat mauris varius dignissim class a dictum.", 
+        "didYouNoticeText": "Massa justo.", 
+        "discountPct": 0.02, 
+        "discountPrice": 469.0, 
+        "highlightTags": [
+            "Metus fusce mattis at lobortis.", 
+            "Vitae ipsum morbi."
+        ], 
+        "id": "-L8aotPNqBEZEKNewp7q", 
+        "imageNames": [
+            "IMG_01.jpeg"
+        ], 
+        "imageURLs": [
+            "https://www.bikebug.com/images/giro-foray-helmet-redblack2.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Risus morbi mauris habitant.", 
+            "Etiam curae.", 
+            "Etiam massa velit neque cubilia viverra taciti in magnis mi tincidunt a.", 
+            "Augue felis litora auctor velit lorem.", 
+            "Risus ipsum arcu id porta sollicitudin.", 
+            "Morbi felis.", 
+            "Lacus nulla felis dictumst nisl torquent vestibulum tempor accumsan adipiscing aliquet arcu."
+        ], 
+        "name": "Base Camp Zoom Cycling Bike Helmets with Removable Shield Visor", 
+        "normalPrice": 478.0, 
+        "officialProductURL": "http://www.limar.com/site/index.php?lng=eng", 
+        "outOfTheBoxTags": [
+            "Justo netus ligula nulla vestibulum molestie fames.", 
+            "Fusce dolor.", 
+            "Class morbi non massa cum eget non sapien rhoncus leo eros vestibulum congue sed.", 
+            "Curae netus fusce aliquam eros pede nunc vulputate molestie lorem cursus aenean."
+        ], 
+        "qty": {
+            "l": 0, 
+            "s": 53, 
+            "xl": 0
+        }, 
+        "recommendedText": "Lorem netus a nullam porttitor.", 
+        "sizes": [
+            "s", 
+            "l", 
+            "xl"
+        ], 
+        "subcategoryName": "Kids Helmet", 
+        "techSpecTags": [
+            "Purus proin nascetur.", 
+            "Massa etiam facilisi sed potenti ultrices auctor aenean nisl arcu vehicula iaculis.", 
+            "Ipsum risus auctor torquent parturient vivamus enim ante.", 
+            "Proin vitae.", 
+            "Etiam velit nostra."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=z26WYBnb6Ms"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143565.680378, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Justo purus rhoncus hac nisl.", 
+        "didYouNoticeText": "Netus justo placerat ut scelerisque elit.", 
+        "discountPct": 0.05, 
+        "discountPrice": 855.0, 
+        "highlightTags": [
+            "Magna ipsum massa enim.", 
+            "Fames magna mauris fusce suspendisse ultrices venenatis."
+        ], 
+        "id": "-L8aotSkcBCsDU6nZL6l", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg", 
+            "IMG_04.jpeg", 
+            "IMG_05.jpeg"
+        ], 
+        "imageURLs": [
+            "http://www.giro.com/media/catalog/product/cache/1/small_image/500x/9df78eab33525d08d6e5fb8d27136e95/g/i/giro_h_foray_matteblackvermillion_34.jpg", 
+            "https://www.bikebug.com/images/giro-foray-helmet-redblack2.jpg", 
+            "https://cdn3.volusion.com/zarbv.ethpz/v/vspfiles/photos/GiroHelmetSavantMips-3.jpg?1489046174", 
+            "https://dbyvw4eroffpi.cloudfront.net/product-media/1NEM/532/532/Giro-Aeon-Road-Helmet-2018-Turquoise-Black.jpg", 
+            "https://media.performancebike.com/images/performance/products/product-hi/40-0477-RDB-ANGLE.JPG?resize\\u003d1500px:1500px\\u0026output-quality\\u003d100"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Etiam purus.", 
+            "Velit netus sociosqu fames.", 
+            "Class lorem dis purus augue placerat netus morbi dis porta.", 
+            "Neque massa varius tempor dis eros platea auctor class posuere porttitor.", 
+            "Augue fames vivamus cubilia sapien curae natoque est inceptos pretium ipsum.", 
+            "Porta justo.", 
+            "Dolor class eleifend parturient."
+        ], 
+        "name": "Giro GH25132 Trinity Helmet, White/Turquoise/Vermillon - UNIV-A", 
+        "normalPrice": 899.0, 
+        "officialProductURL": "https://principia.dk/", 
+        "outOfTheBoxTags": [
+            "Donec curae urna per eu ante nascetur vel magna eros blandit in.", 
+            "Risus purus.", 
+            "Magna donec.", 
+            "Magna justo quisque ac bibendum."
+        ], 
+        "qty": {
+            "m": 0, 
+            "xl": 92, 
+            "xs": 98
+        }, 
+        "recommendedText": "Purus magna urna semper praesent adipiscing sapien ac volutpat.", 
+        "sizes": [
+            "xs", 
+            "m", 
+            "xl"
+        ], 
+        "subcategoryName": "Adult Helmet", 
+        "techSpecTags": [
+            "Morbi etiam aliquam sagittis ac suspendisse duis mollis ve quam magnis id.", 
+            "Fusce ipsum velit pharetra.", 
+            "Curae morbi pretium nunc diam per cum at a eros et sollicitudin semper aptent habitasse.", 
+            "Vitae nulla fusce nisl quisque eu pede.", 
+            "Nulla lacus primis diam phasellus orci enim adipiscing."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=17mNrYE_2CM"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143565.890198, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Ipsum nulla nisl cum urna enim.", 
+        "didYouNoticeText": "Proin etiam.", 
+        "discountPct": 0.03, 
+        "discountPrice": 734.0, 
+        "highlightTags": [
+            "Fames massa a eros etiam ridiculus euismod class nisi lobortis eros viverra ve sit et elementum.", 
+            "Lacus justo ligula mus sodales nam ultricies nostra nulla vel habitant malesuada."
+        ], 
+        "id": "-L8aotW1frHkwd77kgPa", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg"
+        ], 
+        "imageURLs": [
+            "https://www.universalcycles.com/images//products/medium2/82706.jpg", 
+            "http://chainreactioncycles.scene7.com/is/image/ChainReactionCycles/prod154747_IMGSET?wid\\u003d500\\u0026hei\\u003d505", 
+            "https://www.edinburghbicycle.com/media/catalog/product/cache/1/image/2000x/040ec09b1e35df139433887a97daa66f/h/e/helm-giro-saga-womens-cycling-helmet-web-jpg_1.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Magna nulla nam magna.", 
+            "Justo vitae.", 
+            "Metus netus posuere pulvinar velit magna suspendisse eget ante aliquam rutrum.", 
+            "Magna neque.", 
+            "Nulla fusce quam volutpat quisque nisl id sollicitudin cursus rutrum metus aliquet ve.", 
+            "Class neque duis magna euismod erat vivamus mi proin.", 
+            "Justo magna."
+        ], 
+        "name": "Giro Bishop Sport Helmet 2016", 
+        "normalPrice": 756.0, 
+        "officialProductURL": "https://www.bellhelmets.com/en_eu/", 
+        "outOfTheBoxTags": [
+            "Fames risus.", 
+            "Dolor felis tempor suspendisse porta fermentum.", 
+            "Fames justo habitasse condimentum leo in mattis proin blandit.", 
+            "Ipsum augue."
+        ], 
+        "qty": {
+            "l": 0, 
+            "s": 48, 
+            "xl": 62, 
+            "xxl": 13
+        }, 
+        "recommendedText": "Velit lacus duis ad libero conubia ac sapien cum.", 
+        "sizes": [
+            "s", 
+            "l", 
+            "xl", 
+            "xxl"
+        ], 
+        "subcategoryName": "Adult Helmet", 
+        "techSpecTags": [
+            "Proin massa justo.", 
+            "Donec curae bibendum proin et taciti lacus proin magnis.", 
+            "Ipsum massa congue neque.", 
+            "Neque ipsum nisl ultrices nec quis urna dignissim mollis.", 
+            "Donec massa gravida hendrerit turpis arcu."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=LEJR93n5pEA"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143566.085859, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Neque velit nunc enim phasellus rutrum arcu curabitur.", 
+        "didYouNoticeText": "Class vitae sem.", 
+        "discountPct": 0.0, 
+        "discountPrice": 444.0, 
+        "highlightTags": [
+            "Etiam augue placerat parturient.", 
+            "Porta ipsum a tortor ridiculus velit curae."
+        ], 
+        "id": "-L8aotZ4OD8dztD0Veym", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg"
+        ], 
+        "imageURLs": [
+            "http://www.cyclesetsports.com/21749-large_default/giro-atmos-2-bike-helmet-2017.jpg", 
+            "https://cdn3.volusion.com/zarbv.ethpz/v/vspfiles/photos/GiroAeonHelmet-8.jpg?1466589958", 
+            "http://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/2/2012/06/Giro_Air_Attack_helmet.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Purus augue diam aptent cursus dis euismod ad ante tincidunt ligula.", 
+            "Magna metus elit condimentum quisque.", 
+            "Massa donec habitasse massa volutpat mi dui id proin sollicitudin.", 
+            "Vitae lorem.", 
+            "Fames netus turpis sollicitudin fermentum etiam non augue montes at rhoncus odio non dictum a potenti.", 
+            "Massa etiam pharetra nibh mus potenti varius odio pellentesque vestibulum.", 
+            "Massa fusce."
+        ], 
+        "name": "Limar SuperLight+ Bike Helmet Celeste Sky Blue (215 - 245 grams)", 
+        "normalPrice": 444.0, 
+        "officialProductURL": "http://www.sidi.com/", 
+        "outOfTheBoxTags": [
+            "Felis magna cum arcu odio nonummy.", 
+            "Porta fusce sit amet at quam.", 
+            "Fames fusce sem diam adipiscing eget imperdiet ve.", 
+            "Morbi fames luctus nisl ac odio curae."
+        ], 
+        "qty": {
+            "s": 37, 
+            "xl": 99
+        }, 
+        "recommendedText": "Dolor magna tellus nibh ullamcorper.", 
+        "sizes": [
+            "s", 
+            "xl"
+        ], 
+        "subcategoryName": "Adult Helmet", 
+        "techSpecTags": [
+            "Metus morbi quis ve velit.", 
+            "Lacus etiam tempus nisl suspendisse conubia suspendisse.", 
+            "Netus felis hymenaeos mattis adipiscing lacus orci a cras class praesent odio mollis luctus.", 
+            "Purus augue viverra lacus erat turpis.", 
+            "Felis massa senectus penatibus in quam dignissim hendrerit vestibulum odio turpis quisque pede."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=lkfdAVtVLNM"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143566.286903, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Felis vitae dictum neque in massa per gravida praesent eget.", 
+        "didYouNoticeText": "Lacus justo a pede vestibulum id dignissim scelerisque.", 
+        "discountPct": 0.0, 
+        "discountPrice": 4321.0, 
+        "highlightTags": [
+            "Nulla lacus faucibus magna vivamus ante nunc curae metus nec.", 
+            "Curae ipsum dictum bibendum adipiscing venenatis suspendisse etiam nostra convallis molestie risus venenatis parturient."
+        ], 
+        "id": "-L8aotbDxLW2FHx6HXsk", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg"
+        ], 
+        "imageURLs": [
+            "https://static.evanscycles.com/production/helmets--protection/helmets/product-image/969-638/giro-chronicle-mips-helmet-matt-black-EV290126-8600-7.jpg", 
+            "https://static.evanscycles.com/production/helmets--protection/helmets/product-image/969-638/giro-chronicle-mips-helmet-matt-black-EV290126-8600-7.jpg", 
+            "http://www.wigglestatic.com/product-media/5360103562/giro-helmet-phase-black.jpg?w\\u003d2000\\u0026h\\u003d2000\\u0026a\\u003d7"
+        ], 
+        "inStock": false, 
+        "manifacturerInfoTags": [
+            "Neque magna congue platea aliquet ad.", 
+            "Risus purus montes ornare cum.", 
+            "Curae ipsum leo.", 
+            "Dolor vitae.", 
+            "Porta vitae rhoncus convallis nunc vel magna morbi tempus sapien.", 
+            "Neque donec quisque imperdiet diam urna.", 
+            "Risus purus neque facilisi est ac consectetuer quis posuere elementum maecenas proin."
+        ], 
+        "name": "Base Camp NEO Mountain Bike Helmet", 
+        "normalPrice": 4321.0, 
+        "officialProductURL": "http://www.pinarello.com/it", 
+        "outOfTheBoxTags": [
+            "Lacus justo a sodales nullam lorem eu.", 
+            "Class proin.", 
+            "Massa felis nostra iaculis taciti est vestibulum adipiscing ac dictumst.", 
+            "Neque etiam natoque et nonummy ut aenean."
+        ], 
+        "qty": {
+            "s": 0, 
+            "xl": 0, 
+            "xs": 0
+        }, 
+        "recommendedText": "Neque dolor iaculis elit faucibus egestas accumsan nisl eget dolor varius ad elit faucibus maecenas lacus bibendum.", 
+        "sizes": [
+            "xs", 
+            "s", 
+            "xl"
+        ], 
+        "subcategoryName": "Racer Helmet", 
+        "techSpecTags": [
+            "Risus vitae eros urna fermentum tempor vestibulum dictumst nulla dui magnis aenean fusce adipiscing egestas sed consequat class mi.", 
+            "Massa augue.", 
+            "Justo augue conubia.", 
+            "Velit felis lacus bibendum at nisi donec conubia feugiat mollis.", 
+            "Felis dolor habitant adipiscing luctus."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=dIydKsI5mAk"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143566.500103, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Nulla donec sit neque nostra erat cras feugiat justo.", 
+        "didYouNoticeText": "Morbi risus est eget diam.", 
+        "discountPct": 0.05, 
+        "discountPrice": 266.0, 
+        "highlightTags": [
+            "Velit proin sagittis neque proin senectus ac.", 
+            "Justo proin torquent proin ad diam vitae dapibus."
+        ], 
+        "id": "-L8aoteZL8xPkhjxiA4k", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg", 
+            "IMG_04.jpeg"
+        ], 
+        "imageURLs": [
+            "https://www.bike24.com/i/p/1/2/105221_01_d.jpg", 
+            "http://www.cyclesetsports.com/21366-large_default/giro-synthe-mips-katusha-road-cycling-helmet-2017.jpg", 
+            "https://cdn3.volusion.com/zarbv.ethpz/v/vspfiles/photos/GiroAeonHelmet-8.jpg?1466589958", 
+            "https://static.evanscycles.com/production/helmets--protection/helmets/product-image/969-638/giro-chronicle-mips-helmet-matt-black-EV290126-8600-7.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Justo netus.", 
+            "Risus magna bibendum venenatis aptent non cursus facilisi dignissim praesent.", 
+            "Class netus odio a ante vestibulum nullam.", 
+            "Augue morbi erat curabitur sit euismod.", 
+            "Proin lacus.", 
+            "Morbi netus bibendum fusce a quisque tortor.", 
+            "Class neque a aptent ultricies hendrerit etiam ac sociis commodo orci mi felis."
+        ], 
+        "name": "Base Camp Firewall Road Bike Helmet with Detachable Magnetic Visor Shield Goggles", 
+        "normalPrice": 279.0, 
+        "officialProductURL": "https://www.bellhelmets.com/en_eu/", 
+        "outOfTheBoxTags": [
+            "Metus dolor erat ullamcorper laoreet suspendisse eros pede.", 
+            "Lorem morbi varius phasellus facilisi proin per.", 
+            "Risus neque auctor nisl.", 
+            "Proin justo nisl eros praesent proin commodo egestas platea ac porttitor netus."
+        ], 
+        "qty": {
+            "l": 148, 
+            "m": 135, 
+            "xs": 0
+        }, 
+        "recommendedText": "Etiam justo eni praesent purus quam dis praesent a bibendum cum elit vitae.", 
+        "sizes": [
+            "xs", 
+            "m", 
+            "l"
+        ], 
+        "subcategoryName": "Kids Helmet", 
+        "techSpecTags": [
+            "Netus ipsum vitae feugiat elementum sociis nec quis nunc proin elit.", 
+            "Metus lacus neque ante scelerisque conubia est conubia ve purus sollicitudin neque ve ultricies phasellus ipsum senectus.", 
+            "Vitae morbi aenean ipsum pharetra hac dapibus lacus enim ligula nulla.", 
+            "Metus proin nunc vel eros.", 
+            "Porta dolor."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=c1dtzVeXwzo"
+    }, 
+    {
+        "categoryName": "Bike", 
+        "createdAt": 1522143566.703707, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Netus dolor fames facilisi tincidunt montes pulvinar mus cubilia.", 
+        "didYouNoticeText": "Vitae metus.", 
+        "discountPct": 0.02, 
+        "discountPrice": 54356.0, 
+        "highlightTags": [
+            "Velit dolor accumsan adipiscing ridiculus enim erat dictumst feugiat magnis porta.", 
+            "Lacus massa vehicula porta neque mollis phasellus sociosqu platea parturient lacus natoque enim."
+        ], 
+        "id": "-L8aothjjDFwwGGNjiO0", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg", 
+            "IMG_04.jpeg", 
+            "IMG_05.jpeg"
+        ], 
+        "imageURLs": [
+            "http://www.feltet.dk/octo_cms/files/Feltet.dk/Pinarello_Nytro_2018.jpg", 
+            "http://www.thebikeshop.de/WebRoot/Store22/Shops/62303450/5A12/F42B/94D5/83EB/F049/0A0C/6D02/3EE6/2018-Pinarello-Dogma_F10-sky.jpg", 
+            "https://www.thebikerooms.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/2016_white_red_black_f8_sram_54cm.jpg", 
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/1984-pinarello-montello.jpg/220px-1984-pinarello-montello.jpg", 
+            "https://lindbergsport.dk/images/produkt%20billede%20katalog/10DOGMAF8019-p.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Metus proin condimentum amet fermentum leo lorem hac morbi sit nisi.", 
+            "Nulla risus augue torquent velit diam et morbi curabitur tellus senectus eros.", 
+            "Augue fames dui quis.", 
+            "Vitae massa ultrices.", 
+            "Risus netus sed mollis platea pede orci cum.", 
+            "Risus curae fusce congue magna adipiscing praesent purus erat dis non.", 
+            "Netus nulla potenti id ante volutpat fringilla class."
+        ], 
+        "name": "Huffy\u00ae 26\" Fortress\u2122 Men's Mountain Bike with 3.0 Plus Tires, Blue", 
+        "normalPrice": 55465.0, 
+        "officialProductURL": "http://www.limar.com/site/index.php?lng=eng", 
+        "outOfTheBoxTags": [
+            "Massa lorem platea et potenti pede a massa eu ultricies a eni phasellus.", 
+            "Risus class nostra senectus nibh iaculis lacus felis.", 
+            "Dolor morbi.", 
+            "Proin ipsum eros natoque porttitor praesent sociis cras orci."
+        ], 
+        "qty": {
+            "*": 46
+        }, 
+        "recommendedText": "Vitae donec dui.", 
+        "sizes": [
+            "*"
+        ], 
+        "subcategoryName": "Sports Bike", 
+        "techSpecTags": [
+            "Netus lacus quis habitant vel lacus posuere ultrices.", 
+            "Class felis bibendum vestibulum fringilla.", 
+            "Ipsum lorem morbi amet.", 
+            "Proin lacus.", 
+            "Donec curae."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=dFPDKTV-hlw"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143566.917588, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Curae lorem.", 
+        "didYouNoticeText": "Purus ipsum malesuada nam.", 
+        "discountPct": 0.06, 
+        "discountPrice": 255.0, 
+        "highlightTags": [
+            "Proin velit pharetra porta risus est augue non parturient consequat.", 
+            "Vitae etiam placerat ad tortor massa."
+        ], 
+        "id": "-L8aotl4Ey5sBjNeN7kQ", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg", 
+            "IMG_04.jpeg", 
+            "IMG_05.jpeg", 
+            "IMG_06.jpeg"
+        ], 
+        "imageURLs": [
+            "https://res.cloudinary.com/moresport/image/upload/c_fill,d_no-image_gxma3c.jpg,f_auto,h_432,q_auto:eco/swh/products/1027632_a.jpg", 
+            "https://s7d2.scene7.com/is/image/dkscdn/16GIRAGRNDCTR09XXDLT_Vermilion_Flame_Fade_is/", 
+            "http://cdn.media.cyclingnews.com/2014/06/24/2/giro_synthe_15_1600_670.jpg", 
+            "https://merlincycles-img.s3-eu-west-1.amazonaws.com/productImage_1280_1024_ffffff_image-jpeg/29055_giro_synthe_wiggo_mips_road_cycling_helmet_2017.jpg", 
+            "https://static.evanscycles.com/production/helmets--protection/helmets/product-image/969-638/giro-chronicle-mips-helmet-matt-black-EV290126-8600-7.jpg", 
+            "https://www.bicycling.com/sites/bicycling.com/files/styles/article_main_custom_user_phone_1x/public/articles/2018/02/giro-synthe.jpg?itok\\u003dDwuhQR3d\\u0026timestamp\\u003d1518815545"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Donec morbi varius semper.", 
+            "Donec lorem sit donec tincidunt pede dui.", 
+            "Purus felis aliquet cum interdum curabitur.", 
+            "Proin class varius congue odio ve dis venenatis morbi id congue ut taciti dis rutrum viverra.", 
+            "Velit purus quis ultricies in convallis.", 
+            "Porta felis risus nonummy non venenatis volutpat nascetur conubia erat maecenas proin.", 
+            "Magna class elit dictum."
+        ], 
+        "name": "KINGBIKE Specialized Bike Helmet Cycling Bicycle Helmets for Adults Men Women with Safety Rear Reflective Decal,Fits Head Size 58-62CM(American Flag)", 
+        "normalPrice": 271.0, 
+        "officialProductURL": "http://www.garmin.com/da-DK", 
+        "outOfTheBoxTags": [
+            "Neque morbi dolor sapien.", 
+            "Purus massa purus lorem morbi quisque dui.", 
+            "Neque dolor quis fringilla ut rutrum nec suscipit habitasse.", 
+            "Lacus proin."
+        ], 
+        "qty": {
+            "m": 0, 
+            "s": 58, 
+            "xl": 91, 
+            "xs": 0
+        }, 
+        "recommendedText": "Justo donec.", 
+        "sizes": [
+            "xs", 
+            "s", 
+            "m", 
+            "xl"
+        ], 
+        "subcategoryName": "Kids Helmet", 
+        "techSpecTags": [
+            "Porta dolor turpis interdum urna nisi adipiscing quis consequat.", 
+            "Proin etiam per arcu mus dui blandit et duis et pellentesque lacinia.", 
+            "Ipsum curae magna libero justo risus a amet felis.", 
+            "Etiam lacus vel.", 
+            "Proin etiam iaculis ultricies pede leo eni pellentesque dictum."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=_s5O4RT_fRs"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143567.146785, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Fusce lacus aenean.", 
+        "didYouNoticeText": "Dolor risus rhoncus iaculis eros ve eleifend.", 
+        "discountPct": 0.01, 
+        "discountPrice": 429.0, 
+        "highlightTags": [
+            "Proin justo proin.", 
+            "Dolor massa torquent in enim torquent lobortis aliquam elementum quam nullam blandit euismod ornare."
+        ], 
+        "id": "-L8aotoesMQLY-TOzw9m", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg", 
+            "IMG_04.jpeg", 
+            "IMG_05.jpeg", 
+            "IMG_06.jpeg"
+        ], 
+        "imageURLs": [
+            "https://www.edinburghbicycle.com/media/catalog/product/cache/1/image/2000x/040ec09b1e35df139433887a97daa66f/h/e/helm-giro-saga-womens-cycling-helmet-web-jpg_1.jpg", 
+            "http://www.jensonusa.com/globalassets/product-images---all-assets/giro/he195g00-black.jpg", 
+            "https://cdn3.volusion.com/zarbv.ethpz/v/vspfiles/photos/GiroAeonHelmet-8.jpg?1466589958", 
+            "https://cdn3.volusion.com/n9g24.e5uwf/v/vspfiles/photos/Giro18-Synthe-MIPS-2.jpg?1514276222", 
+            "http://cdn.road.cc/sites/default/files/styles/main_width/public/images/Products/Giro%20Indicator%20helmet.jpg?itok\\u003dzH2lz0zm", 
+            "https://static.evanscycles.com/production/helmets--protection/helmets/product-image/969-638/giro-cinder-mips-helmet-silver-other-EV290125-7593-1.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Nulla porta integer dapibus dignissim arcu nibh conubia id.", 
+            "Felis donec.", 
+            "Massa augue suscipit velit massa sociis elit eu eleifend nonummy litora nam torquent feugiat.", 
+            "Fusce donec varius lacus feugiat egestas imperdiet eni massa.", 
+            "Purus augue.", 
+            "Lorem augue habitant nisl dis pede parturient magnis placerat justo interdum purus ridiculus faucibus quis aptent.", 
+            "Neque velit proin a eget netus phasellus taciti."
+        ], 
+        "name": "Schwinn SW75713-2 Thrasher Adult Helmet with rear tail light.", 
+        "normalPrice": 433.0, 
+        "officialProductURL": "https://www.trekbikes.com/us/en_US/bontrager/", 
+        "outOfTheBoxTags": [
+            "Curae netus ante vel quis fames.", 
+            "Risus magna feugiat euismod tempor fusce parturient ac dignissim cras gravida.", 
+            "Class etiam felis mus lorem ridiculus.", 
+            "Purus metus urna ipsum porttitor mollis ipsum posuere rutrum duis felis commodo nisl."
+        ], 
+        "qty": {
+            "l": 0, 
+            "m": 0, 
+            "s": 11, 
+            "xl": 7, 
+            "xs": 10
+        }, 
+        "recommendedText": "Curae proin gravida mus in tempus praesent habitasse.", 
+        "sizes": [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl"
+        ], 
+        "subcategoryName": "Adult Helmet", 
+        "techSpecTags": [
+            "Augue etiam class nec quis per leo sodales magna non pretium enim.", 
+            "Massa felis nec diam eni dis facilisis nunc amet nisi.", 
+            "Porta fames molestie venenatis at enim massa faucibus massa habitant.", 
+            "Class morbi.", 
+            "Fames porta vivamus nec mi morbi."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=LTgCfOwUujo"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143567.35944, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Dolor vitae aptent mi ligula egestas enim ad maecenas ante nibh.", 
+        "didYouNoticeText": "Felis proin nunc integer fusce blandit libero nullam venenatis ve auctor torquent fermentum pharetra platea.", 
+        "discountPct": 0.0, 
+        "discountPrice": 1005.0, 
+        "highlightTags": [
+            "Proin class.", 
+            "Vitae lorem praesent duis arcu nisl faucibus."
+        ], 
+        "id": "-L8aotrzDlH0Nlr_xx8N", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.png", 
+            "IMG_03.jpeg;charset=UTF-8"
+        ], 
+        "imageURLs": [
+            "http://s.wiggle.co.uk/images/giro-helmet-phase-blue-life.jpg", 
+            "https://shop.gironacyclecentre.com/wp-content/uploads/2017/10/DSC00469.png", 
+            "https://www.rei.com/media/2e798663-48a3-4d06-817f-1ffdb82332e8?size\\u003d1020x510"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Netus curae torquent erat nunc ac diam.", 
+            "Neque dolor proin luctus.", 
+            "Proin velit pede pharetra dictumst neque pede curae nonummy auctor augue cras hymenaeos nam nunc.", 
+            "Felis magna est quam consectetuer et felis.", 
+            "Class proin.", 
+            "Class augue pharetra est quam eget ac consectetuer commodo per ac sociis nascetur.", 
+            "Curae morbi feugiat cubilia."
+        ], 
+        "name": "Catlike Rapid Tri Helmet", 
+        "normalPrice": 1005.0, 
+        "officialProductURL": "https://www.trekbikes.com/us/en_US/bontrager/", 
+        "outOfTheBoxTags": [
+            "Class lorem cum erat vehicula suspendisse senectus eros non at.", 
+            "Lorem augue nostra eu nunc primis sapien viverra sem.", 
+            "Morbi justo eni accumsan porta amet diam dignissim hac porta quisque.", 
+            "Metus etiam malesuada conubia."
+        ], 
+        "qty": {
+            "l": 0, 
+            "m": 136, 
+            "s": 52, 
+            "xl": 106, 
+            "xs": 49, 
+            "xxl": 0
+        }, 
+        "recommendedText": "Augue porta scelerisque cum.", 
+        "sizes": [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl", 
+            "xxl"
+        ], 
+        "subcategoryName": "Racer Helmet", 
+        "techSpecTags": [
+            "Massa fusce taciti condimentum nulla auctor tincidunt eu ut urna molestie massa lacinia mauris quis nibh ve mus.", 
+            "Lacus augue massa sagittis at.", 
+            "Donec lorem nisl fames turpis nisi felis imperdiet dui conubia duis ve nibh fames.", 
+            "Dolor morbi nonummy viverra.", 
+            "Lacus neque mus pede parturient amet phasellus nulla rhoncus posuere ornare."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=5WbrXOBloTU"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143567.556871, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Dolor metus porta ante erat felis ornare torquent suspendisse nec.", 
+        "didYouNoticeText": "Porta augue montes sociosqu nullam ultrices parturient cubilia leo in etiam ad sapien placerat nam.", 
+        "discountPct": 0.05, 
+        "discountPrice": 2151.0, 
+        "highlightTags": [
+            "Metus morbi.", 
+            "Lacus etiam."
+        ], 
+        "id": "-L8aotv33IWz-bxcxLWa", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg"
+        ], 
+        "imageURLs": [
+            "https://content.competitivecyclist.com/images/items/1200/GIR/GIR00AG/MATWHI.jpg", 
+            "http://chainreactioncycles.scene7.com/is/image/ChainReactionCycles/prod154747_IMGSET?wid\\u003d500\\u0026hei\\u003d505", 
+            "https://media1.rosebikes.de/product/1850/1/9/1986309_1.k56oup3ipe.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Velit augue dignissim.", 
+            "Vitae lacus amet dis dolor aliquam egestas.", 
+            "Ipsum donec platea tellus.", 
+            "Lacus purus donec nulla.", 
+            "Magna augue torquent fermentum pellentesque.", 
+            "Justo curae tortor vehicula amet aliquam cursus nam.", 
+            "Porta massa ridiculus vestibulum integer nisi hendrerit."
+        ], 
+        "name": "Closca Turtle Foldable,Removable,Washable Helmet,City Leisure Commuting Mountain Cycling Motorcycle Four Seasons Helmet,Passed CPCC Safety Certification", 
+        "normalPrice": 2264.0, 
+        "officialProductURL": "https://www.trekbikes.com/us/en_US/bontrager/", 
+        "outOfTheBoxTags": [
+            "Morbi magna a ante eu diam et velit ac nisl.", 
+            "Dolor porta.", 
+            "Lorem magna vel felis est arcu.", 
+            "Proin metus litora ut faucibus sem in etiam felis lacinia."
+        ], 
+        "qty": {
+            "l": 26, 
+            "xl": 49, 
+            "xs": 104
+        }, 
+        "recommendedText": "Lorem purus auctor fames mi libero potenti.", 
+        "sizes": [
+            "xs", 
+            "l", 
+            "xl"
+        ], 
+        "subcategoryName": "Racer Helmet", 
+        "techSpecTags": [
+            "Velit justo velit neque eleifend id ullamcorper ac platea est.", 
+            "Proin velit amet cum ornare lectus odio.", 
+            "Felis fusce nulla vitae interdum duis hac.", 
+            "Neque purus elementum ridiculus eros potenti natoque habitasse orci duis.", 
+            "Velit nulla fusce ornare pellentesque."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=IuBZ58bnT8A"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143567.756515, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Class curae platea elit eros eget purus nascetur imperdiet ac vitae eni sociis ve.", 
+        "didYouNoticeText": "Etiam donec inceptos facilisis eu ut sit tincidunt.", 
+        "discountPct": 0.0, 
+        "discountPrice": 648.0, 
+        "highlightTags": [
+            "Netus donec.", 
+            "Lorem vitae lectus."
+        ], 
+        "id": "-L8aotyB1EQXYHs5FRVb", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg", 
+            "IMG_04.jpeg", 
+            "IMG_05.jpeg", 
+            "IMG_06.jpeg"
+        ], 
+        "imageURLs": [
+            "https://dbyvw4eroffpi.cloudfront.net/product-media/1NEZ/532/532/Giro-Synthe-MIPS-Helmet-2018-Matt-White-Red.jpg", 
+            "http://www.giro.com/media/catalog/product/cache/1/small_image/500x/9df78eab33525d08d6e5fb8d27136e95/g/i/giro_h_synthe_mattewhiteturquoisevermillion_34.jpg", 
+            "https://cdn.bikemag.com/uploads/2014/08/Giro_H_Feature_MatteGlowingRedHighlightYellow_Profile_Mips.jpg", 
+            "https://merlincycles-img.s3-eu-west-1.amazonaws.com/productImage_470_470_ffffff_image-jpeg/17824_giro_foray_road_bike_helmet.jpg", 
+            "http://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/2/2014/12/IMG_22713.jpg", 
+            "https://media.performancebike.com/images/performance/products/product-hi/40-0477-RDB-ANGLE.JPG?resize\\u003d1500px:1500px\\u0026output-quality\\u003d100"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Purus porta.", 
+            "Fusce morbi.", 
+            "Felis nulla mollis scelerisque risus tincidunt mattis.", 
+            "Neque donec semper habitasse id tristique netus ut fusce.", 
+            "Morbi dolor proin praesent ultricies pellentesque pretium justo et.", 
+            "Magna fusce duis leo.", 
+            "Massa velit."
+        ], 
+        "name": "Giro GH25132 Trinity Helmet, White/Turquoise/Vermillon - UNIV-A", 
+        "normalPrice": 648.0, 
+        "officialProductURL": "http://www.limar.com/site/index.php?lng=eng", 
+        "outOfTheBoxTags": [
+            "Porta augue.", 
+            "Massa etiam sociis libero lobortis facilisis turpis venenatis eleifend.", 
+            "Proin etiam.", 
+            "Donec augue."
+        ], 
+        "qty": {
+            "l": 79, 
+            "m": 79, 
+            "s": 0, 
+            "xl": 0, 
+            "xs": 97, 
+            "xxl": 3
+        }, 
+        "recommendedText": "Vitae ipsum sed hac cum vel eni cubilia et cum id feugiat.", 
+        "sizes": [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl", 
+            "xxl"
+        ], 
+        "subcategoryName": "Adult Helmet", 
+        "techSpecTags": [
+            "Lacus dolor etiam a potenti mollis est elit.", 
+            "Curae purus.", 
+            "Porta magna.", 
+            "Class fusce elit nulla et platea pulvinar magnis arcu orci.", 
+            "Magna lorem nonummy lacinia volutpat mauris suscipit."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=3-ew0isu3TQ"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143567.976206, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Neque netus nunc.", 
+        "didYouNoticeText": "Morbi felis.", 
+        "discountPct": 0.01, 
+        "discountPrice": 1292.0, 
+        "highlightTags": [
+            "Lacus lorem tortor eget condimentum dis nibh ultrices parturient aliquam eros.", 
+            "Ipsum etiam lacus semper."
+        ], 
+        "id": "-L8aou0cWgWdCmy5EuXD", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg"
+        ], 
+        "imageURLs": [
+            "https://merlincycles-img.s3-eu-west-1.amazonaws.com/productImage_1280_1024_ffffff_image-jpeg/28037_giro_synthe_mips_road_cycling_helmet_2017.jpg", 
+            "http://cdn.road.cc/sites/default/files/styles/main_width/public/images/Products/Giro%20Indicator%20helmet.jpg?itok\\u003dzH2lz0zm"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Fames ipsum pede imperdiet ac lectus augue habitasse vel faucibus aliquam litora elit porta class.", 
+            "Class etiam volutpat etiam semper eu.", 
+            "Porta lorem bibendum morbi pede rutrum sapien donec est.", 
+            "Justo morbi tempor libero viverra ad aenean fusce feugiat euismod sagittis.", 
+            "Velit etiam.", 
+            "Morbi purus congue ac ve eros nibh enim netus.", 
+            "Risus etiam libero pellentesque iaculis morbi eros quisque."
+        ], 
+        "name": "Bell Sanction BMX/Downhill Helmet", 
+        "normalPrice": 1305.0, 
+        "officialProductURL": "https://www.trekbikes.com/dk/da_DK/", 
+        "outOfTheBoxTags": [
+            "Purus fames a viverra tempus nunc metus primis.", 
+            "Felis class auctor.", 
+            "Velit etiam justo rhoncus.", 
+            "Donec dolor iaculis nisl pharetra leo."
+        ], 
+        "qty": {
+            "l": 0, 
+            "s": 0, 
+            "xl": 0, 
+            "xxl": 92
+        }, 
+        "recommendedText": "Nulla donec scelerisque quis sociis porta habitant nec.", 
+        "sizes": [
+            "s", 
+            "l", 
+            "xl", 
+            "xxl"
+        ], 
+        "subcategoryName": "Racer Helmet", 
+        "techSpecTags": [
+            "Augue donec ante.", 
+            "Netus velit etiam dapibus eni vestibulum libero curae.", 
+            "Lacus nulla imperdiet nulla.", 
+            "Curae lacus tempus neque ante nascetur lacinia.", 
+            "Proin curae elit augue malesuada."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=SiXzEGEOVfA"
+    }, 
+    {
+        "categoryName": "Bike", 
+        "createdAt": 1522143568.175812, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Etiam purus erat tortor semper elementum potenti sollicitudin consequat nulla.", 
+        "didYouNoticeText": "Felis ipsum scelerisque at.", 
+        "discountPct": 0.0, 
+        "discountPrice": 3958.0, 
+        "highlightTags": [
+            "Felis nulla sociis rutrum lobortis.", 
+            "Morbi donec consequat in ut amet."
+        ], 
+        "id": "-L8aou3j46QSpqb94tuV", 
+        "imageNames": [
+            "IMG_01.jpeg", 
+            "IMG_02.jpeg", 
+            "IMG_03.jpeg", 
+            "IMG_04.jpeg"
+        ], 
+        "imageURLs": [
+            "http://www.pinarello.com/en/resources/slide-homepage/nytro-quadrato/image", 
+            "https://dbyvw4eroffpi.cloudfront.net/product-media/1FT9/532/532/Pinarello-F10-Road-Frameset-167-Black--Red.jpg", 
+            "https://thebikefactory.co.uk/content/products/pinarello-gan-carbon-sky-1-2017-model_A3083.jpg", 
+            "https://racycles.azureedge.net/assets/standard/59687/Pinarello_Dogma_F8Disk_694.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Vitae fusce.", 
+            "Velit risus.", 
+            "Magna morbi.", 
+            "Augue vitae.", 
+            "Augue dolor suscipit parturient porttitor ullamcorper porttitor orci non erat class venenatis ipsum aptent nec elit.", 
+            "Proin nulla neque.", 
+            "Netus augue tortor."
+        ], 
+        "name": "Huffy 26\" Cranbrook Men\u2019s Cruiser Bike with Perfect Fit Frame, Whi  ...", 
+        "normalPrice": 3958.0, 
+        "officialProductURL": "http://www.zipp.com/", 
+        "outOfTheBoxTags": [
+            "Curae fames litora.", 
+            "Morbi lorem egestas.", 
+            "Curae purus urna hac.", 
+            "Morbi metus."
+        ], 
+        "qty": {
+            "*": 85
+        }, 
+        "recommendedText": "Justo velit mollis.", 
+        "sizes": [
+            "*"
+        ], 
+        "subcategoryName": "Kids Bike", 
+        "techSpecTags": [
+            "Curae massa.", 
+            "Massa curae odio quam in lacus ut lectus placerat sed posuere eu.", 
+            "Massa fusce.", 
+            "Vitae nulla nisi hac consectetuer ad nonummy eros auctor vitae nisi iaculis ad libero commodo luctus mi nisi scelerisque.", 
+            "Proin dolor aliquam dapibus malesuada cras eros egestas at lobortis gravida nullam."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=wVJimMAr3jg"
+    }, 
+    {
+        "categoryName": "Bike Helmet", 
+        "createdAt": 1522143568.39041, 
+        "currencyCode": "DKK", 
+        "currencySymbol": "kr", 
+        "descriptionText": "Metus nulla facilisi nisl penatibus ve.", 
+        "didYouNoticeText": "Purus proin.", 
+        "discountPct": 0.04, 
+        "discountPrice": 795.0, 
+        "highlightTags": [
+            "Curae lorem viverra id lectus sem congue nostra ridiculus.", 
+            "Vitae nulla."
+        ], 
+        "id": "-L8aou75918yE3dvW5WH", 
+        "imageNames": [
+            "IMG_01.jpeg;charset=UTF-8"
+        ], 
+        "imageURLs": [
+            "http://www.tweekscycles.com/oncirrus/3/image/product/zoom/6NZgT7bdhN/X1HmcyndkY/girgihswims2bl-1.jpg"
+        ], 
+        "inStock": true, 
+        "manifacturerInfoTags": [
+            "Metus donec purus vivamus varius class risus litora fermentum.", 
+            "Purus massa potenti eu fusce.", 
+            "Magna vitae semper etiam hendrerit nisl.", 
+            "Neque augue mus eleifend rhoncus montes mi nullam aliquet sit parturient magna enim lorem montes pellentesque aliquet.", 
+            "Curae risus netus a nibh risus.", 
+            "Neque massa nec fames leo enim odio justo metus volutpat hac diam pharetra.", 
+            "Donec massa placerat."
+        ], 
+        "name": "Closca Turtle Foldable,Removable,Washable Helmet,City Leisure Commuting Mountain Cycling Motorcycle Four Seasons Helmet,Passed CPCC Safety Certification", 
+        "normalPrice": 828.0, 
+        "officialProductURL": "http://www.giro.com/eu_en/", 
+        "outOfTheBoxTags": [
+            "Proin justo turpis mauris lorem fames dolor maecenas velit pellentesque inceptos risus in vitae.", 
+            "Justo netus neque ipsum tempus in lorem.", 
+            "Purus lacus elit velit proin montes ve netus luctus fusce.", 
+            "Velit augue."
+        ], 
+        "qty": {
+            "l": 59, 
+            "xl": 0, 
+            "xs": 0, 
+            "xxl": 0
+        }, 
+        "recommendedText": "Vitae curae tempor parturient consectetuer iaculis porta elit eu suscipit eros est pede feugiat nonummy.", 
+        "sizes": [
+            "xs", 
+            "l", 
+            "xl", 
+            "xxl"
+        ], 
+        "subcategoryName": "Adult Helmet", 
+        "techSpecTags": [
+            "Augue lorem faucibus vel erat lorem at lorem ipsum pretium.", 
+            "Justo augue egestas.", 
+            "Felis justo felis mauris nam.", 
+            "Metus purus risus mus ante ut pellentesque cubilia etiam nibh curabitur ut.", 
+            "Dolor metus faucibus lorem ad fames."
+        ], 
+        "youtubeURL": "https://www.youtube.com/watch?v=3-ew0isu3TQ"
+    }
+]

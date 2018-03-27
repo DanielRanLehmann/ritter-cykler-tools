@@ -1,0 +1,7 @@
+# SENSITIVE CREDENTIALS
+firebase.json
+kortforsygningen.json
+youtube-credentials.json
+
+*.pyc
+*.DS_Store

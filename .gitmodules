@@ -1,0 +1,3 @@
+[submodule "danish-names"]
+	path = danish-names
+	url = https://github.com/DanielRanLehmann/danish-names.git
