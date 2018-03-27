@@ -1,6 +1,7 @@
 # ritter-cykler-tools
 **NOTE: Remember to include credentials for the database, etc.**
-Quickly generate testdata and upload it to the database.
+<Enter>
+  Quickly generate testdata and upload it to the database.
 
 ## Installation
 ```{r, engine='bash', count_lines}
@@ -12,12 +13,12 @@ pip install -r requirements.txt
 ### Testdata
 Generates 25 fake products with the firebase style.
 ```{r, engine='bash', count_lines}
-python testdata.py --products="/Users/danielranlehmann/Desktop/test-products.json" --count=25 --style="firebase"
+python testdata.py --products=/Users/danielranlehmann/Desktop/test-products.json --count=25 --style="firebase"
 ```
 
 Generates 25 fake users.
 ```{r, engine='bash', count_lines}
-python testdata.py --users="/Users/danielranlehmann/Desktop/test-users.json" --count=25
+python testdata.py --users=/Users/danielranlehmann/Desktop/test-users.json --count=25
 ```
 
 ### Database
