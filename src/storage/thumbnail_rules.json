@@ -1,0 +1,24 @@
+{
+  "original": {
+    "filename": "original.jpeg",
+    "quality": 100
+  },
+  "large": {
+    "filename": "large.jpeg",
+    "quality": 85,
+    "width": 572,
+    "height": 572
+  },
+  "medium": {
+    "filename": "medium.jpeg",
+    "quality": 85,
+    "width": 235,
+    "height": 235
+  },
+  "small": {
+    "filename": "small.jpeg",
+    "quality": 85,
+    "width": 89,
+    "height": 89
+  }
+}

@@ -6,15 +6,10 @@ import json
 import optparse
 from time import time
 import re
-from input_data_handler import *
-
-__location__ = os.path.realpath(
-    os.path.join(os.getcwd(), os.path.dirname(__file__)))
 
 def main():
-
     try:
-        f = open(os.path.join(__location__, 'firebase.json'), 'rb+')
+        f = open('../firebase.json', 'rb+')
     except IOError:
         print "Did you remember to include in the directory a firebase.json file"
 
@@ -51,36 +46,15 @@ def main():
 
                 # FILEPATH IS GIVEN AS ARGUMENT
                 if bool(arguments) is True:
-                    with open(os.path.join(arguments[0]), 'rb+') as f:
+                    with open(arguments[0], 'rb+') as f:
                         data = json.load(f)
                         print db.child(location).push(data, user["idToken"]) # DUPLICATE
-
-                # AID THE USER IN CREATING THE
-                # CORRECT MODEL FOR THE RIGHT DB_LOCATION
-                else:
-                    try:
-                        print "Input data at database location {0}:".format(location)
-                        data = handle_input_data(location)
-
-                        print "Output data at database location {0}:".format(location)
-                        print json.dumps(data, indent=4)
-
-                        should_send_data = cast(raw_input("Ready to send it [Y/N]: "), "Y/N")
-                        if should_send_data is not True:
-                            print "Goodbye."
-                        else:
-                            response = db.child(location).push(data, user["idToken"])
-                            if "name" in response.keys():
-                                print "Success. Data is saved at: {0}/{1}/{2}".format(config["databaseURL"], location, response["name"])
-                            else:
-                                # error handling not complete
-                                print "Oops! Something went wrong writing to the database."
-
-                    except ValueError:
-                        print "Something went wrong."
 
         else:
             print "--email and --password options are missing."
 
 if __name__ == "__main__":
     main()
+
+# usage
+# python database.py --push=/product-drafts --email=danielran11@gmail.com --password=123456
