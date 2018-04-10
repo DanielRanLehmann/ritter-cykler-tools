@@ -55,6 +55,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# usage
-# python database.py --push=/product-drafts --email=danielran11@gmail.com --password=123456
