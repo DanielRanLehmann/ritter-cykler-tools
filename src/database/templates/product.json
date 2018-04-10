@@ -13,6 +13,7 @@
         "inStock": "bool",
         "manifacturerInfoTags": "list<string>",
         "name": "string",
+        "new": "bool",
         "normalPrice": "float",
         "officialProductURL": "string",
         "outOfTheBoxTags": "list<string>",
