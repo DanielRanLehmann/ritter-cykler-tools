@@ -31,8 +31,23 @@ Upload test products to '/products' location in the database.
 python database.py --set=/products /Users/danielranlehmann/Desktop/test-products.json --email=YOUR_EMAIL_HERE --password=YOUR_PASSWORD_HERE
 ```
 
-Push a new accepted model, from models.json, to the database.
+Push a new accepted model, to the database.
 ```{r, engine='bash', count_lines}
-python database.py --push=DATABASE_LOCATION --email=YOUR_EMAIL_HERE --password=YOUR_PASSWORD_HERE
+python database.py --push=DATABASE_LOCATION PATH_TO_LOCAL_JSON_FILE --email=YOUR_EMAIL_HERE --password=YOUR_PASSWORD_HERE
 ```
+
+Link imageURLs to a specific object example.
+```{r, engine='bash', count_lines}
+python database.py --set=products/$product-id/imageURLs PATH_TO_LOCAL_JSON_FILE --email=YOUR_EMAIL_HERE --password=YOUR_PASSWORD_HERE
+```
+
+### Storage 
+Generate and upload thumbnails from multiple images
+python storage.py --put=/product-images/$product-id/ IMG_PATH_0 IMG_PATH_1 --email=YOUR_EMAIL_HERE --password=YOUR_PASSWORD_HERE --thumbnails=1
+
+Upload almost any file to storage.
+```{r, engine='bash', count_lines}
+python storage.py --put=/legal-contract.pdf /Users/danielranlehmann/Desktop/Desktop\ April/EksamensOpgaveInter2018.pdf  --email=YOUR_EMAIL_HERE --password=YOUR_PASSWORD_HERE --thumbnails=0
+```
+
 
