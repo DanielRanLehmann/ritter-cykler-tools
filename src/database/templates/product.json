@@ -7,7 +7,7 @@
         "descriptionText": "string",
         "didYouNoticeText": "string",
         "discountPct": "float",
-        "discountPrice": "float",
+        "discountPrice": "",
         "highlightTags": "list<strings>",
         "imageURLs": "list<dict>",
         "inStock": "bool",

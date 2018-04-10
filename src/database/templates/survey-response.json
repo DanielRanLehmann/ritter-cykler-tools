@@ -1,0 +1,6 @@
+{
+  "comment": "string",
+  "createdAt": "timestamp",
+  "followUpCheckedBoxes": "list <string>",
+  "overallService": "string"
+}

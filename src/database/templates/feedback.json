@@ -1,0 +1,14 @@
+{
+  "anonymousFeedback": "bool",
+  "browser": {
+    "cookiesEnabled": "bool",
+    "languageCode": "string",
+    "name": "string",
+    "osName": "string",
+    "userAgent": "string"
+  },
+  "createdAt": "timestamp",
+  "description": "string",
+  "languageCode": "string",
+  "locationPath": "string"
+}

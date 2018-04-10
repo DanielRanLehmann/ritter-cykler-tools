@@ -1,0 +1,6 @@
+{
+  "email": "string",
+  "firstName": "string",
+  "isEmployee": "bool",
+  "lastName": "string"
+}

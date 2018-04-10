@@ -1,0 +1,6 @@
+{
+  "createdAt": "timestamp",
+  "descriptionText": "string",
+  "name": "string",
+  "totalResponses": "int"
+}

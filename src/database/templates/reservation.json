@@ -1,0 +1,15 @@
+{
+  "createdAt": "timestamp",
+  "currencyCode": "string",
+  "currencySymbol": "string",
+  "email": "string",
+  "firstName": "string",
+  "lastName": "string",
+  "phone": "string",
+  "prefferedPickupDate": "string",
+  "productId": "string",
+  "productName": "string",
+  "productSize": "string",
+  "qty": "int",
+  "total": "float" 
+}

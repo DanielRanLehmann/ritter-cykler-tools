@@ -1,0 +1,7 @@
+{
+  "createdAt": "timestamp",
+  "email": "string",
+  "firstName": "string",
+  "lastName": "string",
+  "phone": "string"
+}
