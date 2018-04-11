@@ -1,4 +1,5 @@
 {
+        "brandName": "string",
         "categoryName": "string",
         "createdAt": "timestamp",
         "lastModifiedAt": "timestamp",
