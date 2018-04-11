@@ -20,6 +20,7 @@
         "qty": "dict<string:int>",
         "recommendedText": "string",
         "sizes": "list<string>",
+        "sku": "string",
         "subcategoryName": "string",
         "techSpecTags": "list<string>",
         "youtubeURL": "string"
