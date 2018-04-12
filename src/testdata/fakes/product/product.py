@@ -341,6 +341,10 @@ def fake_product(category=None):
 
     p = {}
     p["id"] = firebase_pushid.PushID().next_id()
+
+    coin_toss = random.randint(0, 1)
+    p["isNew"] = True if cointoss == 1 else False
+
     p["createdAt"] = time()
     p["lastModifiedAt"] = time()
     p["languageTag"] = "da-DK"
