@@ -342,8 +342,9 @@ def fake_product(category=None):
     p = {}
     p["id"] = firebase_pushid.PushID().next_id()
     p["createdAt"] = time()
-    p["currencyCode"] = "DKK"
-    p["currencySymbol"] = "kr"
+    p["lastModifiedAt"] = time()
+    p["languageTag"] = "da-DK"
+    p["currency"] = "DKK"
     p["categoryName"] = category
     p["subcategoryName"] = randsubcat(category)
 
@@ -372,10 +373,5 @@ def fake_product(category=None):
     }
     p["imageURLs"] = search_imgs(category, keywords[category][random.randint(0, len(keywords[category]) - 1)])
     p["officialProductURL"] = randurl()
-
-    tmp = []
-    for i in range(len(p["imageURLs"])):
-        tmp.append("IMG_{count}.{format}".format(count=str(i+1).zfill(2), format=str(cached_img_headers[p["imageURLs"][i]])))
-    p["imageNames"] = tmp
 
     return p
