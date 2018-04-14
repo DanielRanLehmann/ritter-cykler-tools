@@ -1,7 +1,6 @@
 {
   "createdAt": "timestamp",
-  "currencyCode": "string",
-  "currencySymbol": "string",
+  "currency": "string",
   "email": "string",
   "firstName": "string",
   "lastName": "string",
@@ -11,5 +10,5 @@
   "productName": "string",
   "productSize": "string",
   "qty": "int",
-  "total": "float" 
+  "total": "float"
 }
